@@ -24,7 +24,7 @@
 
 ## 🚀 Overview
 
-I'm a **third-year CSE student** at Andhra University, graduating in **2026**, passionate about building scalable full-stack applications and exploring AI integrations.
+I'm a **third-year CSE student** at Andhra University, graduating in **2027**, passionate about building scalable full-stack applications and exploring AI integrations.
 
 - 🔭 **Currently working on:** AI-Powered Crop Yield Prediction & Global Tide Tracker
 - 🌱 **Currently learning:** Java DSA (Advanced), AWS, System Design, DevOps
