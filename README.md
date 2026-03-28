@@ -108,7 +108,7 @@ I'm a **third-year CSE student** at Andhra University (Graduating 2027), transit
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANUJ-args&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANUJ-args&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=GLOBAL_TIDE_TRACKER,auto-socialize,cs-student-dashboard,auto-socialize,smile-hub-pro,cse-studyverse,minimal-portfolio,ai-social-draft,ai-timetable,ai-social-pilot,MY_PORTFOLIO,portfolio-website,tidewatch" width="48%" />
 </p>
 
 ---
