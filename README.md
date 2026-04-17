@@ -1,4 +1,4 @@
-<h1 align="center">नमस्ते (Namaste), I'm Tannuj Margana 👋</h1>
+<h1 align="center">नमस्ते (Namaste), I'm Tanuj Margana 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanuj-args" target="_blank">
